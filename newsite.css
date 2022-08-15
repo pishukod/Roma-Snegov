@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(127, 218, 218);
+  margin: auto;
+  background-image: url(mado.png);
+  background-blend-mode: soft-light;
+  position: relative;
+  z-index: -1;
+}
+
+.text {
+  text-align: center;
+  margin-top: 10em;
+  background-color: navajowhite;
+  font-size: 2em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-stretch: ultra-expanded;
+  width: auto;
+}
+
+.cringe {
+  text-align: center;
+  margin-top: 10em;
+}
+
+.block {
+  height: 600em;
+  width: auto;
+}
